@@ -84,3 +84,5 @@ Full mapping → [mitre-mapping.md](mitre-mapping.md)
 - [Splunk Docs](https://docs.splunk.com)
 - [MITRE ATT&CK](https://attack.mitre.org)
 - [Windows Event ID Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
+  
+📖 Read the full writeup on Medium → [How I Built a Home SIEM Lab with Splunk](https://medium.com/@mohankrishnaotikunta/how-i-built-a-home-siem-lab-with-splunk-and-everything-that-went-wrong-fd0ae7e98b52)
